@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [CreativeLads](http://creativelads.co/),<br/>👯 I’m looking to collaborate on open source projects (UI libraries, design systems, developer tools) and web development projects with React, Next.js, and TailwindCSS.<br>🤝 I’m looking for help with contributions to my icon website, improving UI/UX, backend/API support, documentation, and scaling open source tools.<br>🌱 I’m currently learning Python and Angular.<br>💬 Ask me about frontend development, UI/UX design, website deployment, open source contributions, and productivity workflows.<br>⚡ Fun fact: I love playing PUBG in my free time.
 <br/>
+<br/>
 <a href="https://komarev.com/ghpvc/?username=devahmadshoukat&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=devahmadshoukat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
