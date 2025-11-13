@@ -1,18 +1,17 @@
 # A Passionate Full Stack Web and Mobile App Developer (WEB2)
 
-🔭 I’m currently working on [CreativeLads](http://creativelads.co/),<br/>
-👯 I’m looking to collaborate on open source projects (UI libraries, design systems, developer tools) and web development projects with React, Next.js, and TailwindCSS.<br>
-🤝 I’m looking for help with contributions to my icon website, improving UI/UX, backend/API support, documentation, and scaling open source tools.<br>
-🌱 I’m currently learning Python and Angular.<br>
-💬 Ask me about frontend development, UI/UX design, website deployment, open source contributions, and productivity workflows.<br>
-⚡ Fun fact: I love playing PUBG in my free time.
+🚀 I’m a Full Stack Web & Mobile App Developer at [CreativeLads](http://creativelads.co/).  
+💡 Passionate about building UI libraries, design systems, and scalable web apps with React, Next.js & TailwindCSS.  
+🌱 Currently exploring Python & Angular.  
+💬 Love discussing UI/UX, frontend development, and open source.  
+🎮 Fun fact: I enjoy playing PUBG in my free time!
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ahmadshoukat@gmail.com) 
+## Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ahmadshoukat@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devahmadshoukat/)
 [![Profile views](https://komarev.com/ghpvc/?username=devahmadshoukat&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=devahmadshoukat)
 
-# 💻 Tech Stack:
+# Languages and Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +23,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
