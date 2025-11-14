@@ -4,7 +4,6 @@
 💡 Passionate about building UI libraries, design systems, and scalable web apps with React, Next.js & TailwindCSS.  
 🌱 Currently exploring Python & Angular.  
 💬 Love discussing UI/UX, frontend development, and open source.  
-🎮 Fun fact: I enjoy playing PUBG in my free time!
 
 ## Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ahmadshoukat@gmail.com)
