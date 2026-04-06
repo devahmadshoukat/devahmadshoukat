@@ -1,4 +1,4 @@
-# A Passionate Full Stack Web and Mobile App Developer (WEB2)
+# Full Stack Developer | Building fast, scalable MVPs for startups
 
 🚀 I’m a Full Stack Web & Mobile App Developer at [CreativeLads](http://creativelads.co/).  
 💡 Passionate about building UI libraries, design systems, and scalable web apps with React, Next.js & TailwindCSS.  
