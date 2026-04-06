@@ -63,7 +63,6 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 
 **📧 Email:** [dev.ahmadshoukat@gmail.com](mailto:dev.ahmadshoukat@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/devahmadshoukat](https://www.linkedin.com/in/devahmadshoukat)  
-**💻 GitHub:** [github.com/devahmadshoukat](https://github.com/devahmadshoukat)
 
 **Open to:**
 - Freelance & contract projects
