@@ -2,13 +2,9 @@
 
 **Full Stack Web Developer** | React & Node.js Specialist | Building scalable web applications
 
----
-
 ## 👨‍💻 Professional Summary
 
 Experienced Full Stack Web Developer with expertise in designing and deploying production-grade web applications. Specialized in modern JavaScript frameworks, real-time applications, and cloud infrastructure. Proven track record of delivering fast, scalable MVPs for startups while maintaining code quality and performance standards.
-
----
 
 ## 🛠️ Technical Stack
 
@@ -34,8 +30,6 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 - **Desktop Apps:** Electron.js
 - **UI Design:** Figma
 
----
-
 ## 🎯 Core Expertise
 
 | Area | Technologies |
@@ -47,8 +41,6 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 | **UI/UX Design** | Figma, responsive design |
 | **Cloud & DevOps** | AWS, Google Cloud, Vercel, Cloudflare |
 
----
-
 ## 💼 What I Build
 
 ✅ **Full-Stack Web Applications** - End-to-end solutions from concept to deployment  
@@ -58,8 +50,6 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 ✅ **Real-time Features** - WebSocket implementations for live data  
 ✅ **Production Deployment** - CI/CD pipelines and cloud infrastructure  
 
----
-
 ## 🔧 Development Approach
 
 - 🚀 **Performance-First** - Optimized load times and user experience
@@ -68,8 +58,6 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 - 📱 **Responsive Design** - Mobile-first development
 - 🔒 **Security Conscious** - Authentication, validation, data protection
 - 💬 **Clear Communication** - Documentation and clean APIs
-
----
 
 ## 🤝 Let's Connect
 
@@ -84,8 +72,6 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 - Open source contributions
 - Collaborative development
 
----
-
 ## 📝 Quick Facts
 
 - ⚡ Specialized in React & Next.js ecosystems
@@ -93,7 +79,5 @@ Experienced Full Stack Web Developer with expertise in designing and deploying p
 - 🚀 Experienced with serverless & cloud architectures
 - 📚 Committed to continuous learning and best practices
 - 🎯 Focused on delivering business value through technology
-
----
 
 **Let's build something great together!** 🚀
