@@ -1,46 +1,99 @@
-# Full Stack Developer | Building fast, scalable MVPs for startups
+# Ahmad Shoukat
 
-🚀 I’m a Full Stack Web & Mobile App Developer at [CreativeLads](http://creativelads.co/).  
-💡 Passionate about building UI libraries, design systems, and scalable web apps with React, Next.js & TailwindCSS.  
-💬 Love discussing UI/UX, frontend development, and open source.  
+**Full Stack Web Developer** | React & Node.js Specialist | Building scalable web applications
 
-## Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ahmadshoukat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devahmadshoukat/)
-[![Profile views](https://komarev.com/ghpvc/?username=devahmadshoukat&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=devahmadshoukat)
+---
 
-# Languages and Tools:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 👨‍💻 Professional Summary
+
+Experienced Full Stack Web Developer with expertise in designing and deploying production-grade web applications. Specialized in modern JavaScript frameworks, real-time applications, and cloud infrastructure. Proven track record of delivering fast, scalable MVPs for startups while maintaining code quality and performance standards.
+
+---
+
+## 🛠️ Technical Stack
+
+### Frontend Development
+- **Frameworks:** React, Next.js, Angular
+- **Styling:** TailwindCSS, SASS, CSS3
+- **Tools:** Vite, Webpack, npm, Figma
+- **State Management & Forms:** React Hook Form, Socket.io
+- **Visualization:** Chart.js, Three.js
+
+### Backend Development
+- **Runtime & Frameworks:** Node.js, Express.js
+- **Languages:** JavaScript, TypeScript, Python
+- **Databases:** MongoDB, MySQL, Firebase
+- **Real-time:** Socket.io
+
+### DevOps & Cloud
+- **Hosting:** Vercel, Netlify, AWS, Google Cloud
+- **Infrastructure:** Cloudflare, Docker
+- **Version Control:** Git, GitHub
+
+### Additional
+- **Desktop Apps:** Electron.js
+- **UI Design:** Figma
+
+---
+
+## 🎯 Core Expertise
+
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | React, Next.js, TailwindCSS, TypeScript |
+| **Backend** | Node.js, Express.js, RESTful APIs |
+| **Database** | MongoDB, MySQL, Firebase |
+| **Real-time** | Socket.io, WebSocket |
+| **UI/UX Design** | Figma, responsive design |
+| **Cloud & DevOps** | AWS, Google Cloud, Vercel, Cloudflare |
+
+---
+
+## 💼 What I Build
+
+✅ **Full-Stack Web Applications** - End-to-end solutions from concept to deployment  
+✅ **High-Performance Frontends** - Optimized React/Next.js applications  
+✅ **Scalable APIs** - RESTful and real-time backends with Node.js  
+✅ **UI Systems** - Reusable component libraries with TailwindCSS  
+✅ **Real-time Features** - WebSocket implementations for live data  
+✅ **Production Deployment** - CI/CD pipelines and cloud infrastructure  
+
+---
+
+## 🔧 Development Approach
+
+- 🚀 **Performance-First** - Optimized load times and user experience
+- 🎨 **Clean Code** - Maintainable, scalable architecture
+- 🧪 **Quality Focused** - Best practices and industry standards
+- 📱 **Responsive Design** - Mobile-first development
+- 🔒 **Security Conscious** - Authentication, validation, data protection
+- 💬 **Clear Communication** - Documentation and clean APIs
+
+---
+
+## 🤝 Let's Connect
+
+**📧 Email:** [dev.ahmadshoukat@gmail.com](mailto:dev.ahmadshoukat@gmail.com)  
+**💼 LinkedIn:** [linkedin.com/in/devahmadshoukat](https://www.linkedin.com/in/devahmadshoukat)  
+**💻 GitHub:** [github.com/devahmadshoukat](https://github.com/devahmadshoukat)
+
+**Open to:**
+- Freelance & contract projects
+- Full-time opportunities
+- Technical consulting
+- Open source contributions
+- Collaborative development
+
+---
+
+## 📝 Quick Facts
+
+- ⚡ Specialized in React & Next.js ecosystems
+- 🌍 Building responsive, accessible web applications
+- 🚀 Experienced with serverless & cloud architectures
+- 📚 Committed to continuous learning and best practices
+- 🎯 Focused on delivering business value through technology
+
+---
+
+**Let's build something great together!** 🚀
