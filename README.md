@@ -2,7 +2,6 @@
 
 🚀 I’m a Full Stack Web & Mobile App Developer at [CreativeLads](http://creativelads.co/).  
 💡 Passionate about building UI libraries, design systems, and scalable web apps with React, Next.js & TailwindCSS.  
-🌱 Currently exploring Python & Angular.  
 💬 Love discussing UI/UX, frontend development, and open source.  
 
 ## Socials:
